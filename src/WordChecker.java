@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class WordChecker {
-    String text;
+    private String text;
 
     public WordChecker(String text) {
         this.text = text;
